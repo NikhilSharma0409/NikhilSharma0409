@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NikhilSharma0409
-- 👀 I’m interested in Game Development.
+- 👀 I’m interested in Android Development.
 - 🌱 I’m currently learning C++.
 
 <!---
