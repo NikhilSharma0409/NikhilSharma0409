@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NikhilSharma0409
 - 👀 I’m interested in Android Development.
-- 🌱 I’m currently learning C++.
+- 🌱 I’m currently learning JavaScript.
 
 <!---
 NikhilSharma0409/NikhilSharma0409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
